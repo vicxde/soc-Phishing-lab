@@ -23,3 +23,9 @@ Within Thunderbird's settings, remote content in messages was enabled. This sett
 
 <img width="1939" height="1064" alt="image" src="https://github.com/user-attachments/assets/c1a9eea3-5514-40f0-99fa-5a04cc286fb2" />
 
+Tooling Setup
+
+Sublime Text was selected as the code editor to streamline the documentation process. While the installation was in progress, notes were drafted and stored as plain text to avoid losing any progress.
+
+<img width="2279" height="1288" alt="image" src="https://github.com/user-attachments/assets/0077187f-c500-4fc8-a16f-1055caff9ac8" /><img width="2876" height="1737" alt="image" src="https://github.com/user-attachments/assets/b511bac4-c785-47e1-9415-5f2890d469b2" />
+
