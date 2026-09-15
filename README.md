@@ -9,14 +9,17 @@ This section covers the phishing campaign analysis. Since the Ubuntu distributio
 
 <img width="2073" height="1518" alt="image" src="https://github.com/user-attachments/assets/8669dccc-a883-498b-9e51-406bfa7883fa" />
 
-No email account needed to be configured with Thunderbird — the client can be used standalone for opening and reviewing email files (e.g., .eml) directly, without connecting to a live mailbox.
+No email account needed to be configured with Thunderbird, the client can be used standalone for opening and reviewing email files (e.g., .eml) directly, without connecting to a live mailbox.
 
 Any phishing sample email file opened during this lab will be launched and viewed through Thunderbird.
-https://cdn.discordapp.com/attachments/1448796745134899452/1543321501657202728/image.png?ex=6aa989a7&is=6aa83827&hm=97db1e9c20606133c3da21f7e58601e7a3e6c36d62a5d5a7a5f6ba8f3132ef9a&
+<img width="3012" height="1978" alt="image" src="https://github.com/user-attachments/assets/9aaf1868-4302-41e9-aab7-96e3fd9b334f" />
+
 
 Configuring Thunderbird for Analysis
 
 Within Thunderbird's settings, remote content in messages was enabled. This setting is necessary for this project because many of the phishing samples analyzed contain embedded links and remote-hosted content, which need to be visible for thorough analysis.
-https://cdn.discordapp.com/attachments/1448796745134899452/1543322577999503480/image.png?ex=6aa98aa8&is=6aa83928&hm=89c80c1403ba0ebfe8a99670a54b0ffd4bce00db06a4d3cdd9909dec4dff6891&
+<img width="1623" height="1452" alt="image" src="https://github.com/user-attachments/assets/472aec0c-1809-49c1-88b5-25f6573f071f" />
 
-https://cdn.discordapp.com/attachments/1448796745134899452/1543322578704138342/image.png?ex=6aa98aa8&is=6aa83928&hm=bcedfb84d303df523f77f57660cddcef175291b71de8735e8e3e16bf586b5b3f&
+
+<img width="1939" height="1064" alt="image" src="https://github.com/user-attachments/assets/c1a9eea3-5514-40f0-99fa-5a04cc286fb2" />
+
