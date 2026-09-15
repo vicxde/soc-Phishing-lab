@@ -7,7 +7,7 @@ Two virtual machines were configured for this lab: Ubuntu and Windows 11. The ma
 
 This section covers the phishing campaign analysis. Since the Ubuntu distribution does not include a native email client, Thunderbird was installed and used to launch and review the sample emails for analysis.
 
-https://cdn.discordapp.com/attachments/1448796745134899452/1543321091513000006/image.png?ex=6aa98945&is=6aa837c5&hm=b97b03d8c2686045625e34486ddf3245f84cf1e40a25137deafe8535e260a2a7&
+<img width="2073" height="1518" alt="image" src="https://github.com/user-attachments/assets/8669dccc-a883-498b-9e51-406bfa7883fa" />
 
 No email account needed to be configured with Thunderbird — the client can be used standalone for opening and reviewing email files (e.g., .eml) directly, without connecting to a live mailbox.
 
