@@ -1,6 +1,11 @@
 # soc-Phishing-lab
 Phishing Email Analysis Lab. A hands-on security operations project documenting the investigation and analysis of phishing emails, including header analysis, indicator of compromise extraction, and threat classification. Built to develop and demonstrate SOC analyst skills including email forensics and incident documentation.
 
+
+
+
+
+
 TCM Security SOC Labs — Phishing Campaign Analysis
 
 Two virtual machines were configured for this lab: Ubuntu and Windows 11. The materials used for analysis are hosted on these VMs.
@@ -52,6 +57,8 @@ To make raw email headers easier to read within Sublime Text, an add-on/package 
 
 
 Email Header Analysis — Key Indicators
+
+
 
 When analyzing a phishing email, the sophistication of the attacker determines how much effort has gone into concealing their identity. This is why examining the raw source of the email, rather than the rendered view, is essential.
 
